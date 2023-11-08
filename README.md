@@ -7,6 +7,6 @@
 
 3) Apk file can be installed on any android device and can be run.
 
-* ALLWAYS CLEAR BROWSER BEFORE RESTARTING THE WEB APP AGAIN. IF THERE IS A RUNNING INSTANCE IN A TAB, NEW TAB OR WINDOW WILL NOT OPEN.
+* Clear browser history before restarting web app. You can use multiple devices at a time, not multiple tabs.
 
-* WHEN DEPLOYING APK, PLEASE MAKE SURE OLD INSTALLATIONS ARE COMPLETELY REMOVED AND THAT THIS APP IS NOT RUNNING IN BACKGROUND.
+* Before installing apk on an android device, please uninstall all previous vesrions and make sure it is not running in background. You can use multiple devices at a time.
